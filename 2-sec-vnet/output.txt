@@ -1,0 +1,7 @@
+Outputs:
+
+resource_group_name = security
+service_principal_client_id = d9e5e2cf-3e37-4402-90ca-cbc08b86a8a4        
+service_principal_client_secret = 2DqGw%s1)LpUi%pq
+vnet_id = /subscriptions/69332c46-d926-4edb-ba00-22d7d61e6fe5/resourceGroups/security/providers/Microsoft.Network/virtualNetworks/security
+vnet_name = security   
